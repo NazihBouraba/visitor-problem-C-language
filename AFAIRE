@@ -1,0 +1,12 @@
+Fonctions a faire:
+
+Dans ais.c, la boucle principale.
+Dans anticorps.c,  muteAc.
+Dans population.c, mutationClones.
+Dans population.c, selectionMeilleursEtClonesMutes.
+Dans population.c, remplacementMoinsBons.
+Dans population.c, mutationMoinsBons.
+
+Et ensuite (ou bien avant) tester:
+ais8, ais16, ais30
+pour evaluer l'influence des parametres.
